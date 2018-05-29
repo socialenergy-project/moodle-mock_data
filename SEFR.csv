@@ -1,0 +1,113 @@
+"Parent ID number","ID number","Short name",Description,"Description format","Scale values","Scale configuration","Rule type (optional)","Rule outcome (optional)","Rule config (optional)","Cross-referenced competency ID numbers","Exported ID (optional)","Is framework",Taxonomy
+,03,"SE_EnergyEfficiency Frwk_3 - LAST NEW","<p></p><p>SOCIALENERGY Project</p><p>Competency Framework 03 - LAST NEW</p><p>Based on the European Qualification Framework</p><p></p><p align=""center""><b><span xml:lang=""en-gb"" lang=""en-gb"">EQF-based </span></b><b><span xml:lang=""en-gb"" lang=""en-gb"">competence framework for SOCIALENERGY</span></b></p>
+
+<span xml:lang=""en-gb"" lang=""en-gb"">The following competence framework is used in SocialEnergy
+platform. It includes 7 base competencies, each one divided into three levels of
+proficiency. The user competence profile, stored at the GSRN platform,
+includes 7 values (each one corresponding to the level of proficiency of
+the respected competence). Value 1 indicates Basic (Level 1) of
+proficiency, value 2 indicates Intermediate (Level 2) of proficiency, and value 3
+indicates Expert (Level 3) of proficiency for each of the seven competencies.</span><br /><br />",1,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":2,""scaledefault"":1,""proficient"":1}]",,,,,,1,"competency,competency,competency,competency"
+,1.1,"1.1. Energy efficient electric appliances. Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+the main types of mostly used appliances, presented in the market.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Can operate main types of mostly used appliances, presented in the
+market.</span></span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><span lang=""en-gb"" xml:lang=""en-gb""><b><span lang=""en-gb"" xml:lang=""en-gb"">Responsibility
+and autonomy</span></b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Applies autonomously and
+with responsibility knowledge and skills for the main
+types of mostly used appliances, presented in the market.</span><br /></span></span></li></ol>",1,,,,0,null,,61,,
+,1.2,"1.2. Energy efficient electric appliances. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+the <a>usage</a></span><span lang=""en-gb"" xml:lang=""en-gb""> of energy per electric
+appliance.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Uses
+safely electrical equipment and power grid.</span></span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><span lang=""en-gb"" xml:lang=""en-gb""><b><span lang=""en-gb"" xml:lang=""en-gb"">Responsibility
+and autonomy</span></b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Makes autonomously and
+with responsibility a safe use of electrical
+equipment and power grid</span>.<br /></span></span></li></ol>",1,,,,0,null,,62,,
+,1.3,"1.3. Energy efficient electric appliances. Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+the <a>benefits</a></span><span lang=""en-gb"" xml:lang=""en-gb""> of more energy efficient
+appliances.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Understands
+and performs activities leading to energy savings.</span></span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibilities and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Develops
+habits for responsible and autonomous efficient energy consumption</span>.<br /></span></span></li></ol>",1,,,,0,null,,63,,
+,2.1,"2.1. EU energy labelling. Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Has
+some initial information that such labels are used.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Can find if some
+labelling information is included for a given appliance</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Has some understanding
+that this issue is important</span>.<br /></span></li></ol>",1,,,,0,null,,64,,
+,2.2,"2.2. EU energy labelling. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+the EU energy labelling (the rationale of energy labelling of electric devices
+and houses/buildings).</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Recognises the EU energy labels</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Makes informed judgement
+about the energy efficiency of an appliance on the base of its EU label</span>.<br /></span></li></ol>",1,,,,0,null,,65,,
+,2.3,"2.3. EU energy labelling. Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Can
+assign labels to appliances even if such information is not provided.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Can apply knowledge
+about energy labels in various situations</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Can inform others about
+any information related to energy labelling</span>.<br /></span></li></ol>",1,,,,0,null,,66,,
+,3.1.,"3.1. Energy metrics. Level 1 - Basic","<ol><li><b>Knowledge<br /></b><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+basic energy metrics.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills<br /></b><span xml:lang=""en-gb"" lang=""en-gb""><span xml:lang=""en-gb"" lang=""en-gb"">Recognises and decodes basic energy metrics</span>.</span></span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b></span><br /></b><span xml:lang=""en-gb"" lang=""en-gb""><span xml:lang=""en-gb"" lang=""en-gb"">Applies autonomously basic energy metrics' knowledge and skills to take basic energy
+efficient decisions</span><b>.</b></span><b><br /></b></span></li></ol><p></p>",1,,,,0,null,,71,,
+,3.2,"3.2. Energy metrics. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+energy metrics for <span xml:lang=""en-gb"" lang=""en-gb"">energy efficiency.</span></span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /></span></span><span xml:lang=""en-gb"" lang=""en-gb"">Recognises and decodes energy metrics <span xml:lang=""en-gb"" lang=""en-gb"">for <span xml:lang=""en-gb"" lang=""en-gb"">energy efficiency.</span></span></span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><span xml:lang=""en-gb"" lang=""en-gb""><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Applies autonomously energy efficient metrics knowledge and skills to take efficient decisions</span>.<br /></span></span></span></li></ol>",1,,,,0,null,,68,,
+,3.3,"3.3. Energy metrics. Level 3 - Expert","<ol><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Knowledge</b><br />Knows
+energy metrics for Demand Response (DR).</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Decodes
+the important data and information for DR, included in documented energy feedback
+messages</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Applies autonomously energy metrics knowledge and skills for DR, to take energy
+efficient decisions</span>.<br /></span></li></ol>",1,,,,0,null,,69,,
+,4.1,"4.1. Demand Response (DR). Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+what is DR.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Avoids
+simultaneous usage of appliances. Reduces electricity consumption at the house
+level and on per electric appliance level (i.e. load curtailment / shedding)</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Takes
+responsible decisions for participation in DR</span>.<br /></span></li></ol>",1,,,,0,null,,70,,
+,4.2,"4.2. Demand Response (DR). Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+how to shift jobs from peak hours to non-peak hours (i.e. load shifting).</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Shifts
+jobs from peak hours to non-peak hours (i.e. load shifting)</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Takes
+responsible decisions about reducing electricity consumption</span>.<br /></span></li></ol>",1,,,,0,null,,72,,
+,4.3,"4.3. Demand Response (DR). Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+the consequences of participation in DR</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Reacts
+appropriately to DR messages. Possesses the trade-off skills to balance between
+energy (bill) cost and discomfort (i.e. lower electricity bill incurs some
+acceptable level of discomfort).</span></span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Possesses
+knowledge and skills to participate autonomously in DR events/activities.</span><br /></span></span></li></ol>",1,,,,0,null,,73,,
+,5.1,"5.1. Smart Grid. Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Basic
+concept of smart grid. How does the electricity market work?</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Identifies types of
+electricity market, including smart grid types</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Takes responsible
+actions for selection and joining particular type of electricity market</span>.<br /></span></li></ol>",1,,,,0,null,,74,,
+,5.2,"5.2. Smart Grid. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+what energy prosumer is. <del cite=""mailto:Prodromos%20Makris""></del>Knows
+the basics of EU liberalised electricity markets.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Makes informed choices
+in the context of the EU liberalised electricity
+markets</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Acts
+as a responsible energy consumer / prosumer. </span><span xml:lang=""en-gb"" lang=""en-gb"">Makes responsible autonomous choices for participation of the EU
+liberalised electricity market</span>.<br /></span></li></ol>",1,,,,0,null,,75,,
+,5.3,"5.3. Smart Grid. Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+the environmental impact of energy efficiency. Knows how to identify the
+products minimum description related to kWh/CO2 information.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Uses
+the products minimum description related to kWh/CO2 information</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Assess
+autonomously the environmental impact of energy efficiency</span>.<br /></span></li></ol>",1,,,,0,null,,76,,
+,6.1,"6.1. Types of pricing schemes and energy programs. Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+major energy programs: Traditional flat electricity tariff, Inclining Block
+Rates (IBR) pricing.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Can
+use the following pricing schemes: Traditional flat electricity tariff, Inclining
+Block Rates (IBR) pricing</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">In a
+given context, makes responsible and autonomous choice between the following
+pricing schemes: Traditional flat electricity tariff; Inclining Block Rates
+(IBR) pricing.</span><br /></span></li></ol>",1,,,,0,null,,77,,
+,6.2,"6.2. Types of pricing schemes and energy programs. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+major energy programs: Time-of-Use (ToU) electricity pricing; Real-Time Pricing
+(RTP).</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Can
+use the following pricing schemes: Time-of-Use (ToU) electricity pricing; Real-Time
+Pricing (RTP).</span></span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">In a
+given context, makes responsible and autonomous choice between the following
+pricing schemes: Time-of-Use (ToU) electricity pricing; Real-Time Pricing (RTP).</span><br /></span></span></li></ol>",1,,,,0,null,,78,,
+,6.3,"6.3. Types of pricing schemes and energy programs. Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+major energy programs: Personalized RTP; Community RTP.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Can
+use the following pricing schemes: Personalised RTP; Community RTP</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">In a given
+context, makes responsible and autonomous choice between the following pricing
+schemes: Personalized RTP; Community RTP.</span><br /></span></li></ol>",1,,,,0,null,,79,,
+,7.1,"7.1. Energy communities. Level 1 - Basic","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+what are Energy Communities.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Has
+skills to participate in energy communities</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Makes responsible and
+autonomous decisions about participation in energy communities</span>.<br /></span></li></ol>",1,,,,0,null,,80,,
+,7.2,"7.2. Energy communities. Level 2 - Intermediate","<ol><li><b>Knowledge</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Knows
+how to form an energy community.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Skills</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Has
+skills to form energy communities</span>.</span></li><li><span xml:lang=""en-gb"" lang=""en-gb""><b>Responsibility and autonomy</b><br /><span xml:lang=""en-gb"" lang=""en-gb"">Makes responsible and
+autonomous decisions about participation in energy communities</span>.<br /></span></li></ol>",1,,,,0,null,,81,,
+,7.3,"7.3. Energy communities. Level 3 - Expert","<ol><li><b>Knowledge</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Knows
+how to manage an energy community.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Skills</b><br /><span lang=""en-gb"" xml:lang=""en-gb""></span><span lang=""en-gb"" xml:lang=""en-gb"">Has
+skills to manage energy communities</span>.</span></li><li><span lang=""en-gb"" xml:lang=""en-gb""><b>Responsibility and autonomy</b><br /><span lang=""en-gb"" xml:lang=""en-gb"">Makes responsible and
+autonomous decisions in managing energy communities.</span><br /></span></li></ol>",1,,,,0,null,,82,,
